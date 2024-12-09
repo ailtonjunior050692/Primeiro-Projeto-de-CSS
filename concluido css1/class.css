@@ -1,0 +1,138 @@
+* {
+    font-family: "Poppins", serif;
+}
+
+.header1 {
+    width: 30px;
+    padding: 27px;
+    cursor: pointer;
+}
+
+.header2 {
+    width: 79px;
+    padding: 27px;
+    cursor: pointer;
+}
+
+.header3 {
+    width: 37px;
+    padding: 27px;
+    cursor: pointer;
+}
+
+.header4 {
+    width: 47px;
+    padding: 27px;
+    cursor: pointer;
+}
+
+.signup {
+    color: white;
+    background-color: #6FBF44;
+    border: none;
+    width: 124px;
+    height: 51px;
+    gap: 0px;
+    border-radius: 6px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    margin-left: 27px;
+    cursor: pointer;
+}
+
+img {
+    margin: 120px 0 0 106px;
+    display: inline-block;
+}
+
+div {
+    display: inline-block;
+    margin: 0px 0px 0px 100px;
+}
+
+h1 {
+    width: 582px;
+    height: 164px;
+    top: 342px;
+    left: 801px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 82px;
+    letter-spacing: 0.5961538553237915px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+p {
+    width: 493px;
+    height: 99px;
+    top: 553px;
+    left: 801px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.learnmore {
+    width: 112px;
+    height: 27px;
+    top: 707px;
+    left: 801px;
+    gap: 0px;
+    opacity: 0px;
+    border: none;
+    color: #6FBF44;
+    background-color: transparent;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    margin: 23px 0 0 0;
+    cursor: pointer;
+}
+
+@media screen and (max-width:1420px) {
+    .header1 {
+        display: none;
+    }
+
+    .header2 {
+        display: none;
+    }
+
+    .header3 {
+        display: none;
+    }
+
+    .header4 {
+        display: none;
+    }
+
+    .signup {
+        margin-left: 440px;
+    }
+
+    div {
+        margin: 50px 0px 0px 100px;
+    }
+
+    img {
+        margin: 120px 0 0 5px;
+    }
+
+    .learnmore {
+        margin: 20px 0 0 140px
+    }
+
+}
