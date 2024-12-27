@@ -2,5 +2,5 @@
 <br>
 <br>
 <br>
-<h2>Projeto criado no meu curso de Programção com <a href="rodolfomori.com.br/devclub" a>DevClub</h2>
+<h2>Projeto criado no meu curso de Programção Front-End com <a href="devclub.com.br" a>DevClub</h2>
 
